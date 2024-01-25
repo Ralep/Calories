@@ -11,6 +11,7 @@
 		E568B1922B62BF0A00F55437 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E568B1912B62BF0A00F55437 /* ContentView.swift */; };
 		E568B1942B62BF0B00F55437 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E568B1932B62BF0B00F55437 /* Assets.xcassets */; };
 		E568B1972B62BF0B00F55437 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E568B1962B62BF0B00F55437 /* Preview Assets.xcassets */; };
+		E568B19E2B62C5DA00F55437 /* AddCalorieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E568B19D2B62C5DA00F55437 /* AddCalorieView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E568B1912B62BF0A00F55437 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E568B1932B62BF0B00F55437 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E568B1962B62BF0B00F55437 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E568B19D2B62C5DA00F55437 /* AddCalorieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCalorieView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E568B18F2B62BF0A00F55437 /* CaloriesApp.swift */,
 				E568B1912B62BF0A00F55437 /* ContentView.swift */,
+				E568B19D2B62C5DA00F55437 /* AddCalorieView.swift */,
 				E568B1932B62BF0B00F55437 /* Assets.xcassets */,
 				E568B1952B62BF0B00F55437 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E568B19E2B62C5DA00F55437 /* AddCalorieView.swift in Sources */,
 				E568B1922B62BF0A00F55437 /* ContentView.swift in Sources */,
 				E568B1902B62BF0A00F55437 /* CaloriesApp.swift in Sources */,
 			);
