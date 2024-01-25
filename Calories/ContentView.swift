@@ -30,7 +30,7 @@ struct ContentView: View {
                             
                             Spacer()
                             
-                            Image(systemName: "cross")
+                            Image(systemName: "trash")
                                 .foregroundColor(.red)
                                 .onTapGesture {
                                     entryList.deleteEntry(entry: entry)
